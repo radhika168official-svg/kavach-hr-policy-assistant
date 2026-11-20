@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+.claude/
+HR_Policy_Assistant_Assignment_Brief.pdf
+Kavach_Assignment_Attachments.zip

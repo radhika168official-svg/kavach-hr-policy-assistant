@@ -1,0 +1,31 @@
+employee_id,name,phone,email,department,designation,band,grade,role_type,city,date_of_joining,probation_status,hrbp_name,hrbp_email
+KV1001,Aarav Mehta,+91 90000 10001,aarav.mehta@kavach.example,Operations,Senior Executive,A,A2,Corporate,Mumbai,2023-04-10,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1002,Priya Nair,+91 90000 10002,priya.nair@kavach.example,Finance,Manager,M,M1,Corporate,Bengaluru,2021-07-01,Confirmed,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1003,Rohan Das,+91 90000 10003,rohan.das@kavach.example,Technology,Associate Director,S,S1,Corporate,Gurugram,2019-11-18,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1004,Sneha Kulkarni,+91 90000 10004,sneha.kulkarni@kavach.example,Motor Sales,Relationship Manager,A,A1,Field Sales,Indore,2026-10-01,On probation,Vikram Rao,vikram.rao@kavach.example
+KV1005,Imran Sheikh,+91 90000 10005,imran.sheikh@kavach.example,Marketing,Marketing Intern,Intern,Intern,Intern,Pune,2026-08-04,Not applicable (Intern),Neha Kapoor,neha.kapoor@kavach.example
+KV1006,Kavya Reddy,+91 90000 10006,kavya.reddy@kavach.example,Health Sales,Senior Manager,M,M2,Field Sales,Hyderabad,2020-02-24,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1007,Arjun Singh,+91 90000 10007,arjun.singh@kavach.example,Customer Support,Executive,A,A1,Corporate,Lucknow,2026-09-15,On probation,Neha Kapoor,neha.kapoor@kavach.example
+KV1008,Meera Iyer,+91 90000 10008,meera.iyer@kavach.example,Claims,Executive,A,A1,Corporate,Delhi,2024-01-08,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1009,Siddharth Jain,+91 90000 10009,siddharth.jain@kavach.example,Product,Senior Manager,M,M2,Corporate,Gurugram,2022-05-16,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1010,Fatima Khan,+91 90000 10010,fatima.khan@kavach.example,Human Resources,Senior Executive,A,A2,Corporate,Noida,2025-03-03,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1011,Rahul Verma,+91 90000 10011,rahul.verma@kavach.example,Life Sales,Relationship Manager,A,A1,Field Sales,Jaipur,2025-12-01,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1012,Divya Pillai,+91 90000 10012,divya.pillai@kavach.example,Technology,Manager,M,M1,Corporate,Chennai,2026-06-22,On probation,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1013,Karan Malhotra,+91 90000 10013,karan.malhotra@kavach.example,Motor Sales,Area Sales Manager,M,M1,Field Sales,Chandigarh,2023-09-11,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1014,Anjali Bose,+91 90000 10014,anjali.bose@kavach.example,Finance,Senior Executive,A,A3,Corporate,Kolkata,2021-01-04,Confirmed,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1015,Vivek Chauhan,+91 90000 10015,vivek.chauhan@kavach.example,Health Sales,Relationship Manager,A,A2,Field Sales,Ahmedabad,2024-06-17,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1016,Pooja Sharma,+91 90000 10016,pooja.sharma@kavach.example,Legal,Director,S,S2,Corporate,Mumbai,2018-08-20,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1017,Nikhil Gupta,+91 90000 10017,nikhil.gupta@kavach.example,Technology,Senior Executive,A,A3,Corporate,Bengaluru,2022-10-03,Confirmed,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1018,Ritu Agarwal,+91 90000 10018,ritu.agarwal@kavach.example,Operations,Executive,A,A1,Corporate,Patna,2026-07-01,On probation,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1019,Manoj Yadav,+91 90000 10019,manoj.yadav@kavach.example,Motor Sales,Relationship Manager,A,A1,Field Sales,Kanpur,2026-05-05,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1020,Shreya Banerjee,+91 90000 10020,shreya.banerjee@kavach.example,Analytics,Data Analyst Intern,Intern,Intern,Intern,Kolkata,2026-09-01,Not applicable (Intern),Ananya Ghosh,ananya.ghosh@kavach.example
+KV1021,Aditya Rao,+91 90000 10021,aditya.rao@kavach.example,Product,Associate Director,S,S1,Corporate,Bengaluru,2026-08-10,On probation,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1022,Neelam Joshi,+91 90000 10022,neelam.joshi@kavach.example,Claims,Manager,M,M1,Corporate,Pune,2020-12-14,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1023,Harsh Vardhan,+91 90000 10023,harsh.vardhan@kavach.example,Life Sales,Zonal Sales Head,S,S1,Field Sales,Delhi,2021-04-05,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1024,Lakshmi Menon,+91 90000 10024,lakshmi.menon@kavach.example,Customer Support,Senior Executive,A,A2,Corporate,Kochi,2023-02-27,Confirmed,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1025,Yash Thakur,+91 90000 10025,yash.thakur@kavach.example,Health Sales,Relationship Manager,A,A1,Field Sales,Bhopal,2025-08-18,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1026,Ishita Saxena,+91 90000 10026,ishita.saxena@kavach.example,Human Resources,Manager,M,M1,Corporate,Gurugram,2024-11-04,Confirmed,Neha Kapoor,neha.kapoor@kavach.example
+KV1027,Gaurav Pandey,+91 90000 10027,gaurav.pandey@kavach.example,Technology,Executive,A,A1,Corporate,Hyderabad,2026-04-20,Confirmed,Ananya Ghosh,ananya.ghosh@kavach.example
+KV1028,Tanvi Desai,+91 90000 10028,tanvi.desai@kavach.example,Marketing,Senior Manager,M,M2,Corporate,Mumbai,2026-09-29,On probation,Neha Kapoor,neha.kapoor@kavach.example
+KV1029,Sameer Qureshi,+91 90000 10029,sameer.qureshi@kavach.example,Motor Sales,Area Sales Manager,M,M1,Field Sales,Nagpur,2022-03-21,Confirmed,Vikram Rao,vikram.rao@kavach.example
+KV1030,Deepa Natarajan,+91 90000 10030,deepa.natarajan@kavach.example,Finance,Executive,A,A1,Corporate,Coimbatore,2025-10-06,Confirmed,Ananya Ghosh,ananya.ghosh@kavach.example
