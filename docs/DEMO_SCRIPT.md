@@ -1,5 +1,8 @@
 # Demo recording script (target 4:30, under 5:00)
 
+The submitted video `demo/Kavach_HR_Assistant_Demo.mp4` is already recorded and narrated, and its exact
+narration is in `docs/DEMO_VOICEOVER.md`. Use this script only if you want to re-record it by hand.
+
 Before you record: `streamlit run app.py`, then open http://localhost:8501. Have `logs/alerts.csv` open in a
 viewer. Keep API keys off screen; the demo runs in deterministic mode.
 

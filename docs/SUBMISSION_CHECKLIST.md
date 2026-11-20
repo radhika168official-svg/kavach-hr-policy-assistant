@@ -18,7 +18,7 @@
 - [ ] Hindi/Hinglish replies (only a few Hinglish keywords are understood)
 
 ## To send
-- [x] Demo video, 3:10: `demo/Kavach_HR_Assistant_Demo.mp4` (captions, no voiceover)
+- [x] Demo video, 4:00: `demo/Kavach_HR_Assistant_Demo.mp4` (captions + text-to-speech narration; script in `docs/DEMO_VOICEOVER.md`)
 - [x] GitHub repo with README (`.env`, `.venv/`, `.claude/` excluded)
 - [x] Log sample: `logs/messages.csv` and `logs/alerts.csv`, written fresh by the demo recording
 - [x] Design note: `docs/DESIGN_NOTE.pdf` (one page)
@@ -26,6 +26,7 @@
 - [ ] Reply to the assignment email with the links
 
 ## Before pushing
+- [x] A fresh clone of the GitHub repo installs from `requirements.txt`, passes 73 tests, scores 6/6 and starts the app
 - [x] `python -m pytest` passes (73 tests)
 - [x] `python scripts/run_samples.py` prints 6/6 (note: running it appends to `logs/`)
 - [x] No API keys in code, logs or video
