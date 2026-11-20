@@ -18,7 +18,7 @@
 - [ ] Hindi/Hinglish replies (only a few Hinglish keywords are understood)
 
 ## To send
-- [x] Demo video, 4:00: `demo/Kavach_HR_Assistant_Demo.mp4` (captions + text-to-speech narration; script in `docs/DEMO_VOICEOVER.md`)
+- [x] Demo video, 4:58, my own voiceover: `demo/Kavach_HR_Assistant_Demo.mp4` (script in `docs/DEMO_VOICEOVER.md`)
 - [x] GitHub repo with README (`.env`, `.venv/`, `.claude/` excluded)
 - [x] Log sample: `logs/messages.csv` and `logs/alerts.csv`, written fresh by the demo recording
 - [x] Design note: `docs/DESIGN_NOTE.pdf` (one page)

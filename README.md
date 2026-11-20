@@ -71,7 +71,7 @@ data/                  Extracted assignment attachments (unchanged)
 logs/                  messages.csv, alerts.csv written by real runs
 results/               sample_results.md (actual bot answers), test_results.txt (actual pytest output)
 docs/                  DESIGN_NOTE.md / DESIGN_NOTE.pdf (one page), DEMO_SCRIPT.md, DEMO_VOICEOVER.md, SUBMISSION_CHECKLIST.md
-demo/                  Kavach_HR_Assistant_Demo.mp4 (4:00 narrated screen recording; logs/ was written by this run)
+demo/                  Kavach_HR_Assistant_Demo.mp4 (4:58 screen recording narrated by me; logs/ was written by this run)
 ```
 
 ## Logs
